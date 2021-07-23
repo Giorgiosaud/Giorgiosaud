@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Venezuela living in Chile
-- - 🔭 I’m currently working at [@Modyo](https://www.modyo.com)
+- 🔭 I’m currently working at [@Modyo](https://www.modyo.com)
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
