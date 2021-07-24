@@ -25,7 +25,9 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Media in link style](https://giorgiosaud.medium.com/media-in-link-style-99c546de0e87?source=rss-29df8432048d------2)
+- [Really common issues integrating from front-end part 2 Content Security Policy (CSP)](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-end-part-2-content-security-policy-csp-2332dde7b8a4?source=rss-29df8432048d------2)
+- [Really common issues integrating from front part 1 (CORS + Preflight Request )](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
