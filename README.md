@@ -22,6 +22,10 @@ I am a fullstack software engineer from Venezuela living in Chile
 <!--img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /-->
 <br>
 <br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
