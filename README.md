@@ -37,8 +37,9 @@ I am a fullstack software engineer from Venezuela living in Chile
 * [EatosCorp](https://eatoscorp.com/)
 * [GHP Chile](http://ghpchile.cl/site/)
 
-<br>
-<br>
+</br>
+</br>
+
 ## Some Pages Where i contributed to in Modyo
 * Larrainvial Private Site
 * Bci Chile (Multiples Sites)
@@ -57,6 +58,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 * Entre Otros
 <br>
 <br>
+
 ## And Some Pages Are inactive right now
 * Jorin C.A: Website Corporativo
 * Puertorinoco Catamaran: Pagina de empresa de turismo con recorridos en catamaran incluyo, reservas,y pagos via mercadopago en Venezuela
@@ -68,6 +70,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 * Entre otros
 <br>
 <br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Media in link style](https://giorgiosaud.medium.com/media-in-link-style-99c546de0e87?source=rss-29df8432048d------2)
