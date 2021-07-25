@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hi, Working in websites since 2007  👋
 I am a fullstack software engineer from Venezuela living in Chile
 - 🔭 I’m currently working [@Modyo](https://www.modyo.com)
 - 🌱 Learning design patterns in depth
@@ -21,14 +21,11 @@ I am a fullstack software engineer from Venezuela living in Chile
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=#FF2D20" />
 <img align="left" alt="Wordpress" src="https://img.shields.io/badge/wordpress%20-%2320232a.svg?&style=for-the-badge&logo=wordpress&logoColor=#21759B" />
-
-
-
 <!--img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /-->
 <br>
 <br>
 
-## Some Pages where i Worked in are still active
+## Some Pages where i worked in are still active
 * [Zonapro.net](http://zonapro.net/)
 * [Facultad de Gobierno • Universidad Central de Chile](http://www.politicaygobierno.cl/web/)
 * [Baquedano Consultores](https://baquedanoconsultores.cl/)
@@ -37,10 +34,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 * [EatosCorp](https://eatoscorp.com/)
 * [GHP Chile](http://ghpchile.cl/site/)
 
-</br>
-</br>
-
-## Some Pages Where i contributed to in Modyo
+## Some pages where i contributed to in Modyo
 * Larrainvial Private Site
 * Bci Chile (Multiples Sites)
 * Cinemmark (Multiples Sites)
@@ -56,10 +50,9 @@ I am a fullstack software engineer from Venezuela living in Chile
 * Parque Arauco (Multiples Sites)
 * Modyo
 * Entre Otros
-<br>
-<br>
 
-## And Some Pages Are inactive right now
+
+## And Some Pages made by me but inactive right now
 * Jorin C.A: Website Corporativo
 * Puertorinoco Catamaran: Pagina de empresa de turismo con recorridos en catamaran incluyo, reservas,y pagos via mercadopago en Venezuela
 * Oro Negro: Website Corporativo
