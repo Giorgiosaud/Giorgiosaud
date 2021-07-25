@@ -28,6 +28,46 @@ I am a fullstack software engineer from Venezuela living in Chile
 <br>
 <br>
 
+## Some Pages where i Worked in are still active
+* [Zonapro.net](http://zonapro.net/)
+* [Facultad de Gobierno • Universidad Central de Chile](http://www.politicaygobierno.cl/web/)
+* [Baquedano Consultores](https://baquedanoconsultores.cl/)
+* [Luzmakitchen](http://luzmakitchen.com/site/)
+* [Windowggard](http://windowgard.com/site/)
+* [EatosCorp](https://eatoscorp.com/)
+* [GHP Chile](http://ghpchile.cl/site/)
+
+<br>
+<br>
+## Some Pages Where i contributed to in Modyo
+* Larrainvial Private Site
+* Bci Chile (Multiples Sites)
+* Cinemmark (Multiples Sites)
+* SBS
+* USS on boarding
+* Mapco (Multiples Sites)
+* Copec (Multiples Sites)
+* Consorcio
+* Santander Chile (Multiples Sites)
+* Fundacion de la mujer
+* Mifel
+* Duoc
+* Parque Arauco (Multiples Sites)
+* Modyo
+* Entre Otros
+<br>
+<br>
+## And Some Pages Are inactive right now
+* Jorin C.A: Website Corporativo
+* Puertorinoco Catamaran: Pagina de empresa de turismo con recorridos en catamaran incluyo, reservas,y pagos via mercadopago en Venezuela
+* Oro Negro: Website Corporativo
+* La Casona: Website Corporativo
+* Resources and Productivity: Website Corporativo
+* Aironpetrol: Website Corporativo
+* Amay: Website Corporativo
+* Entre otros
+<br>
+<br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Media in link style](https://giorgiosaud.medium.com/media-in-link-style-99c546de0e87?source=rss-29df8432048d------2)
