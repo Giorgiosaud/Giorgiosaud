@@ -64,7 +64,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 <br>
 <br>
 
-## Blog posts
+## Medium blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Atributos srcset y sizes en un tag de imagen <img>](https://giorgiosaud.medium.com/atributos-srcset-y-sizes-en-un-tag-de-imagen-img-54d766e12cb0?source=rss-29df8432048d------2)
 - [Tag link y como usar media en el para optimizar performance de css descargado](https://giorgiosaud.medium.com/tag-link-y-como-usar-media-en-el-para-optimizar-performance-de-css-descargado-98a0bfcfb075?source=rss-29df8432048d------2)
