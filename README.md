@@ -66,15 +66,15 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Medium blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Micro FrontEnd (MFE) in ®Modyo](https://giorgiosaud.medium.com/micro-frontend-mfe-in-modyo-198b211b1bcc?source=rss-29df8432048d------2)
-- [Atributos srcset y sizes en un tag de imagen <img>](https://giorgiosaud.medium.com/atributos-srcset-y-sizes-en-un-tag-de-imagen-img-54d766e12cb0?source=rss-29df8432048d------2)
+- [Micro FrontEnd &lpar;MFE&rpar; in ®Modyo](https://giorgiosaud.medium.com/micro-frontend-mfe-in-modyo-198b211b1bcc?source=rss-29df8432048d------2)
+- [Atributos srcset y sizes en un tag de imagen &lt;img&gt;](https://giorgiosaud.medium.com/atributos-srcset-y-sizes-en-un-tag-de-imagen-img-54d766e12cb0?source=rss-29df8432048d------2)
 - [Tag link y como usar media en el para optimizar performance de css descargado](https://giorgiosaud.medium.com/tag-link-y-como-usar-media-en-el-para-optimizar-performance-de-css-descargado-98a0bfcfb075?source=rss-29df8432048d------2)
-- [Problemas comunes de integración front-end Content Security Policy (CSP) parte 2](https://giorgiosaud.medium.com/problemas-comunes-de-integraci%C3%B3n-front-end-content-security-policy-csp-parte-2-13100fbe65a6?source=rss-29df8432048d------2)
-- [Problemas comunes de integración desde el front end parte 1 (CORS + Solicitud de verificación…](https://giorgiosaud.medium.com/problemas-comunes-de-integraci%C3%B3n-desde-el-front-end-parte-1-cors-solicitud-de-verificaci%C3%B3n-9b1da15d6aae?source=rss-29df8432048d------2)
-- [Attributes srcset + sizes in <img> tag](https://giorgiosaud.medium.com/attributes-srcset-sizes-in-img-tag-4a3513c16a79?source=rss-29df8432048d------2)
+- [Problemas comunes de integración front-end Content Security Policy &lpar;CSP&rpar; parte 2](https://giorgiosaud.medium.com/problemas-comunes-de-integraci%C3%B3n-front-end-content-security-policy-csp-parte-2-13100fbe65a6?source=rss-29df8432048d------2)
+- [Problemas comunes de integración desde el front end parte 1 &lpar;CORS + Solicitud de verificación…](https://giorgiosaud.medium.com/problemas-comunes-de-integraci%C3%B3n-desde-el-front-end-parte-1-cors-solicitud-de-verificaci%C3%B3n-9b1da15d6aae?source=rss-29df8432048d------2)
+- [Attributes srcset + sizes in &lt;img&gt; tag](https://giorgiosaud.medium.com/attributes-srcset-sizes-in-img-tag-4a3513c16a79?source=rss-29df8432048d------2)
 - [Media in link style](https://giorgiosaud.medium.com/media-in-link-style-99c546de0e87?source=rss-29df8432048d------2)
-- [Really common issues integrating from front-end part 2 Content Security Policy (CSP)](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-end-part-2-content-security-policy-csp-2332dde7b8a4?source=rss-29df8432048d------2)
-- [Really common issues integrating from front part 1 (CORS + Preflight Request )](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
+- [Really common issues integrating from front-end part 2 Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-end-part-2-content-security-policy-csp-2332dde7b8a4?source=rss-29df8432048d------2)
+- [Really common issues integrating from front part 1 &lpar;CORS + Preflight Request &rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
