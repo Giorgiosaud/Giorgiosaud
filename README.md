@@ -66,7 +66,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Medium blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Micro FrontEnd &lpar;MFE&rpar; in ®Modyo](https://giorgiosaud.medium.com/micro-frontend-mfe-in-modyo-198b211b1bcc?source=rss-29df8432048d------2)
+- [Arquitectura de Micro Frontend: Trabaja inteligentemente, no más duro](https://giorgiosaud.medium.com/arquitectura-de-micro-frontend-trabaja-inteligentemente-no-m%C3%A1s-duro-8995417d821a?source=rss-29df8432048d------2)
+- [Work Smarter, Not Harder: Micro Frontend Architecture](https://giorgiosaud.medium.com/micro-frontend-mfe-in-modyo-198b211b1bcc?source=rss-29df8432048d------2)
 - [Atributos srcset y sizes en un tag de imagen &lt;img&gt;](https://giorgiosaud.medium.com/atributos-srcset-y-sizes-en-un-tag-de-imagen-img-54d766e12cb0?source=rss-29df8432048d------2)
 - [Tag link y como usar media en el para optimizar performance de css descargado](https://giorgiosaud.medium.com/tag-link-y-como-usar-media-en-el-para-optimizar-performance-de-css-descargado-98a0bfcfb075?source=rss-29df8432048d------2)
 - [Problemas comunes de integración front-end Content Security Policy &lpar;CSP&rpar; parte 2](https://giorgiosaud.medium.com/problemas-comunes-de-integraci%C3%B3n-front-end-content-security-policy-csp-parte-2-13100fbe65a6?source=rss-29df8432048d------2)
