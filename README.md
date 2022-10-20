@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/master/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
+<a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/main/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
 
 ## Hi, Working in websites since 2007  👋
 I am a fullstack software engineer from Venezuela living in Chile
