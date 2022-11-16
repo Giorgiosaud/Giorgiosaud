@@ -81,7 +81,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [Really common issues integrating from front part 1 &lpar;CORS + Preflight Request &rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
-**Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/main/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
 
 
