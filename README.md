@@ -1,6 +1,7 @@
-<a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/main/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
+# Hi i am Jorge Saud (Giorgiosaud inside of the dev world)
 
-## Hi, Working in websites since 2007  👋
+
+## Working in websites since 2007  👋
 I am a fullstack software engineer from Venezuela living in Chile
 - 🔭 I’m currently working [@Modyo](https://www.modyo.com)
 - 🌱 Learning design patterns in depth
@@ -81,15 +82,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/main/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
