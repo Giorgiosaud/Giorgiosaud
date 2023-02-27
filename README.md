@@ -14,7 +14,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackexchange.com/users/4818994/jorge-luis-saud-rosal)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jsaud/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/giorgiosaud)
-
+</br></br>
+[![Giorgiosaud's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=giorgiosaud&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Giorgiosaud's GitHub languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=giorgiosaud&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </br></br>
 ## Expertise
 
@@ -82,6 +83,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 <!-- BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+</br></br>
 <a href="https://app.daily.dev/giorgio_saud"><img src="https://github.com/Giorgiosaud/Giorgiosaud/blob/main/devcard.svg" width="400" alt="Jorge Saud's Dev Card"/></a>
+
 
 
