@@ -76,9 +76,12 @@ I am a fullstack software engineer from Venezuela living in Chile
 ### Activity
   ![](https://github-readme-activity-graph.vercel.app/graph?username=giorgiosaud&theme=tokyo-night)
 
+## Medium blog posts
+<!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+<!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- MEDIUM-BLOG-POST-LIST:START -->
 - [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
 - [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
 - [Preflight request and Cors](https://giorgiosaud.io/notebook/prefllight-request-and-cors/)
@@ -102,7 +105,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [Really common issues integrating from front-end part 2 Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-end-part-2-content-security-policy-csp-2332dde7b8a4?source=rss-29df8432048d------2)
 - [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/really-common-issues-integrating-from-front-end/)
 - [Really common issues integrating from front part 1 &lpar;CORS + Preflight Request &rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-BLOG-POST-LIST:END -->
 <!--
 **Giorgiosaud/Giorgiosaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 </br></br>
