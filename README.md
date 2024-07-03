@@ -67,6 +67,15 @@ I am a fullstack software engineer from Venezuela living in Chile
 <br>
 <br>
 
+## Github stats 
+<h2> <img align="center" src="https://github.com/giorgiosaud/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=giorgiosaud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=giorgiosaud&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiosaud&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=giorgiosaud&theme=tokyo-night)
+  </div>
+
 ## Medium blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Arquitectura de Micro Frontend: Trabaja inteligentemente, no más duro](https://giorgiosaud.medium.com/arquitectura-de-micro-frontend-trabaja-inteligentemente-no-m%C3%A1s-duro-8995417d821a?source=rss-29df8432048d------2)
