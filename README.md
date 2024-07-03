@@ -78,6 +78,19 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Medium blog posts
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
+- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
+- [Preflight request and Cors](https://giorgiosaud.io/notebook/prefllight-request-and-cors/)
+- [Paginator in astro](https://giorgiosaud.io/notebook/paginator-in-astro/)
+- [Repository pattern in frontend](https://giorgiosaud.io/notebook/repository-pattern/)
+- [The microfrontend Architecture is not Decoupled is Resilient](https://giorgiosaud.io/notebook/microfrontends-is-not-decoupled-is-resilient/)
+- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/simplified-explanation-of-the-singleton-design-pattern/)
+- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
+- [Micro Frontend Architecture](https://giorgiosaud.io/notebook/microfrontend/)
+- [Workbox](https://giorgiosaud.io/notebook/self-healing-url-in-astro/)
+- [Tag link](https://giorgiosaud.io/notebook/tag-link/)
+- [Workbox](https://giorgiosaud.io/notebook/workbox-integration/)
+- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/really-common-issues-integrating-from-front-end/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
