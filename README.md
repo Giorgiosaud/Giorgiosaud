@@ -82,18 +82,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Medium blog posts
 <!-- MEDIUM-BLOG-POST-LIST:START -->
-- [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
-- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
-- [Preflight request and Cors](https://giorgiosaud.io/notebook/prefllight-request-and-cors/)
-- [Paginator in astro](https://giorgiosaud.io/notebook/paginator-in-astro/)
-- [Repository pattern in frontend](https://giorgiosaud.io/notebook/repository-pattern/)
-- [The microfrontend Architecture is not Decoupled is Resilient](https://giorgiosaud.io/notebook/microfrontends-is-not-decoupled-is-resilient/)
-- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/simplified-explanation-of-the-singleton-design-pattern/)
-- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
-- [Micro Frontend Architecture](https://giorgiosaud.io/notebook/microfrontend/)
-- [Workbox](https://giorgiosaud.io/notebook/self-healing-url-in-astro/)
-- [Tag link](https://giorgiosaud.io/notebook/tag-link/)
-- [Workbox](https://giorgiosaud.io/notebook/workbox-integration/)
 - [Arquitectura de Micro Frontend: Trabaja inteligentemente, no más duro](https://giorgiosaud.medium.com/arquitectura-de-micro-frontend-trabaja-inteligentemente-no-m%C3%A1s-duro-8995417d821a?source=rss-29df8432048d------2)
 - [Work Smarter, Not Harder: Micro Frontend Architecture](https://giorgiosaud.medium.com/micro-frontend-mfe-in-modyo-198b211b1bcc?source=rss-29df8432048d------2)
 - [Atributos srcset y sizes en un tag de imagen &lt;img&gt;](https://giorgiosaud.medium.com/atributos-srcset-y-sizes-en-un-tag-de-imagen-img-54d766e12cb0?source=rss-29df8432048d------2)
@@ -103,7 +91,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [Attributes srcset + sizes in &lt;img&gt; tag](https://giorgiosaud.medium.com/attributes-srcset-sizes-in-img-tag-4a3513c16a79?source=rss-29df8432048d------2)
 - [Media in link style](https://giorgiosaud.medium.com/media-in-link-style-99c546de0e87?source=rss-29df8432048d------2)
 - [Really common issues integrating from front-end part 2 Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-end-part-2-content-security-policy-csp-2332dde7b8a4?source=rss-29df8432048d------2)
-- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/really-common-issues-integrating-from-front-end/)
 - [Really common issues integrating from front part 1 &lpar;CORS + Preflight Request &rpar;](https://giorgiosaud.medium.com/really-common-issues-integrating-from-front-part-1-cors-preflight-request-d71f960f7f5b?source=rss-29df8432048d------2)
 <!-- MEDIUM-BLOG-POST-LIST:END -->
 <!--
