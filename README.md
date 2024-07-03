@@ -76,7 +76,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 ### Activity
   ![](https://github-readme-activity-graph.vercel.app/graph?username=giorgiosaud&theme=tokyo-night)
 
-## Medium blog posts
+## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
 - [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
 - [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
