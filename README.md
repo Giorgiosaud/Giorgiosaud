@@ -78,21 +78,17 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
-- [Self-healing URL in Astro](https://giorgiosaud.io/notebook/self-healing-url-in-astro/)
-- [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
-- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
-- [Preflight request and Cors](https://giorgiosaud.io/notebook/prefllight-request-and-cors/)
-- [Paginator in astro](https://giorgiosaud.io/notebook/paginator-in-astro/)
-- [Repository pattern in frontend](https://giorgiosaud.io/notebook/repository-pattern/)
-- [The microfrontend Architecture is not Decoupled is Resilient](https://giorgiosaud.io/notebook/000012/)
-- [The microfrontend Architecture is not Decoupled is Resilient](https://giorgiosaud.io/notebook/000013/)
-- [The microfrontend Architecture is not Decoupled is Resilient](https://giorgiosaud.io/notebook/microfrontends-is-not-decoupled-is-resilient/)
-- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/simplified-explanation-of-the-singleton-design-pattern/)
-- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
-- [Micro Frontend Architecture](https://giorgiosaud.io/notebook/microfrontend/)
-- [Tag link](https://giorgiosaud.io/notebook/tag-link/)
-- [Workbox](https://giorgiosaud.io/notebook/workbox-integration/)
-- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/really-common-issues-integrating-from-front-end/)
+- [Self-healing URL in Astro](https://giorgiosaud.io/notebook/000010-self-healing-url-in-astro/)
+- [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/000009-mdx-file-in-astro-as-content-vs-md-file/)
+- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/000008-repository-pattern-revisited/)
+- [Preflight request and Cors](https://giorgiosaud.io/notebook/000007-prefllight-request-and-cors/)
+- [Repository pattern in frontend](https://giorgiosaud.io/notebook/000005-repository-pattern/)
+- [Paginator in astro](https://giorgiosaud.io/notebook/000006-paginator-in-astro/)
+- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/000011-simplified-explanation-of-the-singleton-design-pattern/)
+- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/000002-efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
+- [Micro Frontend Architecture](https://giorgiosaud.io/notebook/000003-microfrontend/)
+- [Tag link](https://giorgiosaud.io/notebook/000004-tag-link/)
+- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/000001-really-common-issues-integrating-from-front-end/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
