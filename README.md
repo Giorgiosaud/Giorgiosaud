@@ -78,6 +78,7 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [CSS Scrolling Animations Simplified](https://giorgiosaud.io/notebook/undefined/)
 - [Self-healing URL in Astro](https://giorgiosaud.io/notebook/undefined/)
 - [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/undefined/)
 - [Preflight request and Cors](https://giorgiosaud.io/notebook/undefined/)
