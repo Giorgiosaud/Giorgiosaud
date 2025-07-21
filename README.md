@@ -78,17 +78,20 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
-- [CSS Scrolling Animations Simplified](https://giorgiosaud.io/notebook/undefined/)
-- [Self-healing URL in Astro](https://giorgiosaud.io/notebook/undefined/)
-- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/undefined/)
-- [Preflight request and Cors](https://giorgiosaud.io/notebook/undefined/)
-- [Repository pattern in frontend](https://giorgiosaud.io/notebook/undefined/)
-- [Paginator in astro](https://giorgiosaud.io/notebook/undefined/)
-- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/undefined/)
-- [Micro Frontend Architecture](https://giorgiosaud.io/notebook/undefined/)
-- [Tag link](https://giorgiosaud.io/notebook/undefined/)
-- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/undefined/)
-- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/undefined/)
+- [How I’m Using New CSS Global Properties on My Website and some Examples](https://giorgiosaud.io/notebook/how-im-using-new-css-global-properties-on-my-website-and-some-examples/)
+- [From Legacy Bloat to Native Brilliance: My Website Migration Journey](https://giorgiosaud.io/notebook/from-legacy-bloat-to-native-brilliance-our-website-migration-journey/)
+- [CSS Scrolling Animations Simplified](https://giorgiosaud.io/notebook/css-scrolling-animations-simplified/)
+- [Self-healing URL in Astro](https://giorgiosaud.io/notebook/self-healing-url-in-astro/)
+- [MDX File in astro as content vs md file](https://giorgiosaud.io/notebook/mdx-file-in-astro-as-content-vs-md-file/)
+- [The Repository pattern is called Data Layer Architecture](https://giorgiosaud.io/notebook/repository-pattern-revisited/)
+- [Preflight request and Cors](https://giorgiosaud.io/notebook/prefllight-request-and-cors/)
+- [Repository pattern in frontend](https://giorgiosaud.io/notebook/repository-pattern/)
+- [Paginator in astro do it like a pro](https://giorgiosaud.io/notebook/paginator-in-astro/)
+- [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/simplified-explanation-of-the-singleton-design-pattern/)
+- [Micro Frontend Architecture Explained](https://giorgiosaud.io/notebook/microfrontend/)
+- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
+- [Tag link recommendations](https://giorgiosaud.io/notebook/tag-link/)
+- [Content Security Policy &lpar;CSP&rpar;](https://giorgiosaud.io/notebook/really-common-issues-integrating-from-front-end/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
