@@ -78,6 +78,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [Container and @container Queries Explained how I used in this project](https://giorgiosaud.io/notebook/container-and-container-queries/)
+- [Consultas de contenedor y @container explicadas: cómo las usé en este proyecto](https://giorgiosaud.io/es/cuaderno/container-y-query-containers/)
 - [How I’m Using New CSS Global Properties on My Website and some Examples](https://giorgiosaud.io/notebook/how-im-using-new-css-global-properties-on-my-website-and-some-examples/)
 - [Cómo Estoy Usando Nuevas Propiedades Globales de CSS en Mi Sitio Web y Algunos Ejemplos](https://giorgiosaud.io/es/cuaderno/como-estoy-usando-nuevas-propiedades-globales-de-css-en-mi-sitio-web-y-algunos-ejemplos/)
 - [From Legacy Bloat to Native Brilliance: My Website Migration Journey](https://giorgiosaud.io/notebook/from-legacy-bloat-to-native-brilliance-our-website-migration-journey/)
