@@ -80,6 +80,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
 - [Container and @container Queries Explained how I used in this project](https://giorgiosaud.io/notebook/container-and-container-queries/)
 - [Consultas de contenedor y @container explicadas: cómo las usé en este proyecto](https://giorgiosaud.io/es/cuaderno/container-y-query-containers/)
+- [How I Use `@layer` in CSS to Organize Styles in My Project](https://giorgiosaud.io/notebook/how-i-use-layer-in-css-to-organize-styles-in-my-project/)
+- [Cómo Uso `@layer` en CSS para Organizar Estilos en Mi Proyecto](https://giorgiosaud.io/es/cuaderno/como-uso-layer-en-css-para-organizar-estilos-en-mi-proyecto/)
 - [How I’m Using New CSS Global Properties on My Website and some Examples](https://giorgiosaud.io/notebook/how-im-using-new-css-global-properties-on-my-website-and-some-examples/)
 - [Cómo Estoy Usando Nuevas Propiedades Globales de CSS en Mi Sitio Web y Algunos Ejemplos](https://giorgiosaud.io/es/cuaderno/como-estoy-usando-nuevas-propiedades-globales-de-css-en-mi-sitio-web-y-algunos-ejemplos/)
 - [From Legacy Bloat to Native Brilliance: My Website Migration Journey](https://giorgiosaud.io/notebook/from-legacy-bloat-to-native-brilliance-our-website-migration-journey/)
@@ -101,8 +103,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [Simplified Explanation of the Singleton Design Pattern](https://giorgiosaud.io/notebook/simplified-explanation-of-the-singleton-design-pattern/)
 - [Internacionalizacion de proyecto con Astro](https://giorgiosaud.io/es/cuaderno/astro-i18n/)
 - [Micro Frontend Architecture Explained](https://giorgiosaud.io/notebook/microfrontend/)
-- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
 - [Tag link recommendations](https://giorgiosaud.io/notebook/tag-link/)
+- [Efficient and Effective Use of the &lt;img&gt; Tag with srcset and sizes Attributes](https://giorgiosaud.io/notebook/efficient-and-effective-use-of-the-img-tag-with-srcset-and-sizes-attributes/)
 - [Micro Frontend Architecture](https://giorgiosaud.io/es/cuaderno/microfrontend/)
 - [Tag link](https://giorgiosaud.io/es/cuaderno/image-tag-link/)
 - [Uso Eficiente y Efectivo de la Etiqueta &lt;img&gt; con los Atributos srcset y sizes](https://giorgiosaud.io/es/cuaderno/uso-eficiente-efectivo-img-srcset-sizes/)
