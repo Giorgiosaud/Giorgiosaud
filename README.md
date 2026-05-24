@@ -78,6 +78,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [Venezuela 51: State Refactoring and the Puerto Ordaz Hub](https://giorgiosaud.io/notebook/venezuela-51-state-refactoring-puerto-ordaz/)
+- [Venezuela 51: El Refactoring del Estado y el Hub de Puerto Ordaz](https://giorgiosaud.io/es/cuaderno/venezuela-51-refactoring-estado-puerto-ordaz/)
 - [Upgrading to Astro 6, Svelte 5, and Better Auth 1.6: What Broke and How I Fixed It](https://giorgiosaud.io/notebook/upgrading-astro-6-svelte-5-dependency-conflicts/)
 - [Actualizando a Astro 6, Svelte 5 y Better Auth 1.6: Qué se rompió y cómo lo arreglé](https://giorgiosaud.io/es/cuaderno/upgrading-astro-6-svelte-5-dependency-conflicts/)
 - [Chrome Built-in AI: The Summarizer API](https://giorgiosaud.io/notebook/2026-05-03-chrome-built-in-ai-summarizer/)
@@ -126,8 +128,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [i18n Type-Safe: Extracción de Claves Profundas en TypeScript](https://giorgiosaud.io/es/cuaderno/i18n-tipado-seguro-typescript/)
 - [IA Nativa del Navegador: API Summarizer de Chrome](https://giorgiosaud.io/es/cuaderno/ia-nativa-navegador-chrome-summarizer/)
 - [Implementando llms.txt: Haz Tu Sitio Amigable para IA](https://giorgiosaud.io/es/cuaderno/implementacion-llms-txt/)
-- [CSS Anchor Positioning: El Futuro del Posicionamiento UI](https://giorgiosaud.io/es/cuaderno/posicionamiento-css-anchor/)
-- [CSS Custom Properties 2026: @property Se Vuelve Mainstream](https://giorgiosaud.io/es/cuaderno/propiedades-personalizadas-css-2026/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
