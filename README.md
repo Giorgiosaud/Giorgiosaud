@@ -78,6 +78,8 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [CSP Without unsafe-inline in Astro + Vercel](https://giorgiosaud.io/notebook/csp-without-unsafe-inline-astro-vercel/)
+- [CSP Sin unsafe-inline en Astro + Vercel](https://giorgiosaud.io/es/cuaderno/csp-without-unsafe-inline-astro-vercel/)
 - [Venezuela 51: State Refactoring and the Puerto Ordaz Hub](https://giorgiosaud.io/notebook/venezuela-51-state-refactoring-puerto-ordaz/)
 - [Venezuela 51: El Refactoring del Estado y el Hub de Puerto Ordaz](https://giorgiosaud.io/es/cuaderno/venezuela-51-refactoring-estado-puerto-ordaz/)
 - [Upgrading to Astro 6, Svelte 5, and Better Auth 1.6: What Broke and How I Fixed It](https://giorgiosaud.io/notebook/upgrading-astro-6-svelte-5-dependency-conflicts/)
@@ -126,8 +128,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [Container Queries 2026: Diseño de Componentes Listo para Producción](https://giorgiosaud.io/es/cuaderno/container-queries-2026/)
 - [CSS Grid y Subgrid 2026: Soporte Universal Desbloquea Nuevos Patrones](https://giorgiosaud.io/es/cuaderno/css-grid-subgrid-2026/)
 - [i18n Type-Safe: Extracción de Claves Profundas en TypeScript](https://giorgiosaud.io/es/cuaderno/i18n-tipado-seguro-typescript/)
-- [IA Nativa del Navegador: API Summarizer de Chrome](https://giorgiosaud.io/es/cuaderno/ia-nativa-navegador-chrome-summarizer/)
-- [Implementando llms.txt: Haz Tu Sitio Amigable para IA](https://giorgiosaud.io/es/cuaderno/implementacion-llms-txt/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
