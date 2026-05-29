@@ -78,6 +78,10 @@ I am a fullstack software engineer from Venezuela living in Chile
 
 ## Personal notes
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:START -->
+- [HTML + CSS Carousel: Step-by-Step Guide for Humans and AI](https://www.giorgiosaud.io/notebook/html-css-carousel-step-by-step/)
+- [Self-Healing URLs in Astro + Vercel: Implementation, Gotchas, and the Right Approach](https://www.giorgiosaud.io/notebook/selfhealing-urls-astro-vercel/)
+- [Carousel con HTML + CSS: Guía Paso a Paso para Humanos e IA](https://www.giorgiosaud.io/es/cuaderno/html-css-carousel-paso-a-paso/)
+- [URLs Auto-Sanadas en Astro + Vercel: Implementación, Gotchas y el Enfoque Correcto](https://www.giorgiosaud.io/es/cuaderno/selfhealing-urls-astro-vercel/)
 - [Better Auth with Drizzle and Neon in Astro](https://www.giorgiosaud.io/notebook/better-auth-drizzle-neon-astro/)
 - [CSP Without unsafe-inline in Astro + Vercel](https://www.giorgiosaud.io/notebook/csp-without-unsafe-inline-astro-vercel/)
 - [Web Push Notifications with Astro and Vercel](https://www.giorgiosaud.io/notebook/web-push-notifications-astro-vercel/)
@@ -124,10 +128,6 @@ I am a fullstack software engineer from Venezuela living in Chile
 - [View Transitions API: Smooth Page Navigation](https://www.giorgiosaud.io/notebook/view-transitions-api/)
 - [CSS Scroll Animations 2026: View Timeline Ahora Estable](https://www.giorgiosaud.io/es/cuaderno/animaciones-scroll-css-2026/)
 - [API Summarizer de Chrome 2026: La IA del Navegador Se Vuelve Mainstream](https://www.giorgiosaud.io/es/cuaderno/api-summarizer-chrome-2026/)
-- [View Transitions API: Navegación Fluida entre Páginas](https://www.giorgiosaud.io/es/cuaderno/api-view-transitions/)
-- [Islands Architecture: Componentes Multi-Framework](https://www.giorgiosaud.io/es/cuaderno/arquitectura-islas-multi-framework/)
-- [CSS @layer 2026: Soporte Universal para Control de Cascada](https://www.giorgiosaud.io/es/cuaderno/capas-css-2026/)
-- [CSS Carousels 2026: Scroll Markers Nativos Por Fin Aquí](https://www.giorgiosaud.io/es/cuaderno/carruseles-css-2026/)
 <!-- PERSONAL-NOTEBOOK-NOTE-LIST:END -->
 
 ## Medium blog posts
